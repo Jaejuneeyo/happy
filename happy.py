@@ -1,1 +1,1 @@
-printf("ㅇㅇㄹㅇㄹㅇ")
+print("master")
